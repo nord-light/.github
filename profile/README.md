@@ -60,3 +60,7 @@ MIT License
 ## Available Ports
 
 - [JetBrains IDEs](https://github.com/nord-light/jetbrains) (PhpStorm, IntelliJ IDEA, WebStorm, etc.)
+
+## Author
+
+Created by [Vincenzo Petrucci](https://nahi.me/) ([@nahime0](https://github.com/nahime0)) as part of [Illegal Studio](https://illegal.studio/).
