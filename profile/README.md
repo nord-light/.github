@@ -60,6 +60,7 @@ MIT License
 ## Available Ports
 
 - [JetBrains IDEs](https://github.com/nord-light/jetbrains) (PhpStorm, IntelliJ IDEA, WebStorm, etc.)
+- [Visual Studio Code](https://github.com/nord-light/vscode) (Visual Studio Code, Cursor, VSCodium, etc.)
 
 ## Author
 
